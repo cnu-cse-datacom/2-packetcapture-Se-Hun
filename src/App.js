@@ -21,7 +21,7 @@ class App extends Component {
               <p>dog guide</p>
             </div>
             <div className="headlinesearch headfactor">
-              <p className="height5">search</p>
+              <p className="height5 search">search</p>
             </div>
             <div className="headlinelogin headfactor">
               <p className="height5">login</p>
@@ -37,7 +37,7 @@ class App extends Component {
             <div className="maindisplay">
               <h1>강아지 가이드</h1>
               <p>강아지에 대한 정보를 알아보세요!<br />다양한 종류의 강아지들을 알려드립니다!</p>
-              <p>search</p>
+              <p className="search">search</p>
             </div>
           </div> 
         </body>
